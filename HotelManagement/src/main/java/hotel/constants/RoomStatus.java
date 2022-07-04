@@ -2,7 +2,7 @@ package hotel.constants;
 
 public enum RoomStatus {
     BOOKED,
-    AVAIALBLE,
+    AVAILABLE,
     RESERVED,
     NOT_AVAILABLE;
 }

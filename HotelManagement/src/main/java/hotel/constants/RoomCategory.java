@@ -1,6 +1,6 @@
 package hotel.constants;
 
-public enum RoomStyle {
+public enum RoomCategory {
     DELUX,
     STANDARD,
     FAMILY_SUITE;
